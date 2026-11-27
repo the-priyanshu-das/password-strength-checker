@@ -52,3 +52,20 @@ Then run the bounded command above. A brute-force search grows rapidly with leng
 ## Secure password habits
 
 Use a password manager to create and store a different, random password for every account. Prefer long, unique passwords or passphrases. Turn on multifactor authentication, especially for email and financial accounts. Never share passwords, and change a password promptly if a service reports a breach. See [presentation.md](presentation.md) for a short classroom presentation outline.
+
+
+## 👨‍💻 Author
+
+**Priyanshu**
+
+CS Undergrad | Cybersecurity & Frontend Dev | Bulding creative web apps and brands | Lifelong Learner
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 🧠 Improve it
